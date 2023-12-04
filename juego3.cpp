@@ -34,7 +34,7 @@ int main() {
         cin >> respuesta;
 
         // Manejo de las opciones del menú
-        switch (respuesta) {
+        switch (respuesta) 
             case 1:
                 cout << "Eres un duende llamado Ciru el cual su objetivo es esconder su oro, \n"
                      << "sin perderlo ya que seria castigado por el rey duende con la muerte\n";
