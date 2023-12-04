@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std
 // Función para mostrar las estadísticas del jugador
 void mostrarEstadisticas(int vida, int oro, int magia) {
     std::cout << "Vida: " << vida << std::endl;
