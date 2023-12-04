@@ -7,7 +7,7 @@ void mostrarEstadisticas(int vida, int oro, int magia) {
     std::cout << "Magia: " << magia << std::endl;
 
 
-}//parentecis de la funcion de mostrar estadisticas
+}
 
 int main() {
 
