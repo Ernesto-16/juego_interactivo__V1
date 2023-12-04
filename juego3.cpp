@@ -75,7 +75,7 @@ int main() {
 				   	cout<<"2-Con ayuda de un mago"<<endl;
 				   	cout<<"3-Canbiar de forma y viajar como un animal domestico"<<endl<<endl;
 				   	cin>>respuesta;
-				   	
+				   	// para segir ramificando las opciones propuestas
 				   	switch(respuesta){
 					   
 				   	
