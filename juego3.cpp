@@ -75,12 +75,12 @@ int main() {
 				   	cout<<"2-Con ayuda de un mago"<<endl;
 				   	cout<<"3-Canbiar de forma y viajar como un animal domestico"<<endl<<endl;
 				   	cin>>respuesta;
-				   	// para segir ramificando las opciones propuestas
+				   	
 				   	switch(respuesta){
 					   
 				   	
 				   	 case 1:
-				   		
+				   		// para segir ramificando las opciones propuestas
 				   		cout<<"Has perdido un poco de megia"<<endl<<endl;//si el usuario vueelve a elgir la prrimera opcion
 				   		magia=magia-20;
 				   		mostrarEstadisticas(vida, oro, magia);
