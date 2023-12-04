@@ -16,7 +16,7 @@ int main() {
     int oro = 100;
     int magia = 100;
     int respuesta = 0;
-    bool continuar = true;
+    bool continuar = true
     
     // Bucle principal del juego
     while(continuar) {
@@ -31,7 +31,7 @@ int main() {
         cout << "3-JUGAR" << endl;
         cout << "4-Acerca de" << endl;
         cout << "5-salir del programa" << endl;
-        cin >> respuesta
+        cin >> respuesta;
 
         // Manejo de las opciones del menú
         switch (respuesta) {
