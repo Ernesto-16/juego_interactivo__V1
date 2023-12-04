@@ -22,7 +22,7 @@ int main() {
     while(continuar) {
 	
 	
-        cout << "Bienvenido old gold " << endl << endl << endl << endl
+        cout << "Bienvenido old gold " << endl << endl << endl << endl;
         cout << "MENU" << endl;
         cout << "ESCOOGE UNA OBCION TECLEANDO EL NUMERO QUE TIENE A LA IZQUIERDA ,ES RECOMENDABLE ENTRAR PRRIMERO ALA OPCION 1,2,4 \n" 
         <<"PARA PODER CONOCERR MAAS DEL JUEGO ANTES DE JUGAR"<<endl;
