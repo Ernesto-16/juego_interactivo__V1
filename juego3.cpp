@@ -16,7 +16,7 @@ int main() {
     int oro = 100;
     int magia = 100;
     int respuesta = 0;
-    bool continuar = true
+    bool continuar = true;
     
     // Bucle principal del juego
     while(continuar) {
